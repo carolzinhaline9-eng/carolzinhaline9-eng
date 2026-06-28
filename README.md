@@ -12,26 +12,23 @@
 
 <!-- 🌷 Nome animado -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=E754A6&center=true&vCenter=true&width=600&lines=Carol+Carvalho+♡" alt="Typing SVG" />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=E754A6&center=true&vCenter=true&width=600&lines=Carol+Carvalho+♡)](https://git.io/typing-svg)
+
 </p>
 
 <!-- 🤍 Frase -->
 <p align="center">
-  ☾ <b>Bem-vindo(a) ao meu perfil.</b><br>
   ♡ Atualmente aprendendo <b>Python</b> e <b>HTML</b>
 </p>
 
-<br>
-
-<h2 align="center">☾ Sobre mim</h2>
-
+<!-- 💗 Sobre mim -->
 <p align="center">
-Oie! Eu sou a Carol, tenho 16 anos e faço ADS pelo Senac. Sempre gostei de tecnologia, mas foi agora que comecei a descobrir o quanto gosto de programação. Ainda estou aprendendo, então esse perfil vai acompanhar toda a minha evolução daqui pra frente.
-<br><br>
-Meu maior interesse é aprender a criar sites, aplicativos, jogos e qualquer outra coisa que me faça pensar <i>"seria legal fazer isso"</i>. Gosto de colocar minha criatividade nas coisas que faço e acho muito divertido poder transformar uma ideia em algo que realmente funciona.
-<br><br>
-Quando não estou estudando, provavelmente estou ouvindo música, jogando, assistindo uma comédia romântica ou escrevendo um monte de coisas aleatórias. Se você chegou até aqui, seja muito bem-vindo(a)! ♡
-</p>
+Oie! Eu sou a Carol, tenho 16 anos e faço Análise e Desenvolvimento de Sistemas pelo Senac. Ainda estou descobrindo esse mundo da programação, mas já percebi que adoro criar coisas e dar vida às ideias que passam pela minha cabeça.
 
+Quero aprender a fazer sites, aplicativos, jogos e qualquer outro projeto que eu ache divertido ou que desperte minha criatividade. Ainda tenho muito o que aprender, mas acho que essa é justamente a parte mais legal.
+
+Fora da programação, eu sou o tipo de pessoa que está quase sempre ouvindo música, jogando alguma coisa, assistindo uma comédia romântica ou escrevendo quando sente vontade. Gosto de conhecer coisas novas e, quando alguma ideia me empolga, eu provavelmente vou tentar tirar ela do papel.
+
+Esse perfil é meio que um diário da minha evolução na programação. Aqui vou compartilhando meus projetos, meus estudos e tudo o que eu for aprendendo pelo caminho. ♡
+</p>
