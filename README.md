@@ -1,4 +1,3 @@
-```html
 <!-- 🌸 Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:23272F,100:E754A6" width="100%">
 
@@ -13,9 +12,9 @@
 
 <!-- 🌷 Nome animado -->
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=E754A6&center=true&vCenter=true&width=600&lines=Carol+Carvalho+♡)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=E754A6&center=true&vCenter=true&width=600&lines=Carol+Carvalho+♡" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- 🤍 Frase -->
@@ -35,5 +34,4 @@ Meu maior interesse é aprender a criar sites, aplicativos, jogos e qualquer out
 <br><br>
 Quando não estou estudando, provavelmente estou ouvindo música, jogando, assistindo uma comédia romântica ou escrevendo um monte de coisas aleatórias. Se você chegou até aqui, seja muito bem-vindo(a)! ♡
 </p>
-```
 
