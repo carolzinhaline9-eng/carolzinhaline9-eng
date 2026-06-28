@@ -1,3 +1,4 @@
+```html
 <!-- 🌸 Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:23272F,100:E754A6" width="100%">
 
@@ -22,3 +23,17 @@
   ☾ <b>Bem-vindo(a) ao meu perfil.</b><br>
   ♡ Atualmente aprendendo <b>Python</b> e <b>HTML</b>
 </p>
+
+<br>
+
+<h2 align="center">☾ Sobre mim</h2>
+
+<p align="center">
+Oie! Eu sou a Carol, tenho 16 anos e faço ADS pelo Senac. Sempre gostei de tecnologia, mas foi agora que comecei a descobrir o quanto gosto de programação. Ainda estou aprendendo, então esse perfil vai acompanhar toda a minha evolução daqui pra frente.
+<br><br>
+Meu maior interesse é aprender a criar sites, aplicativos, jogos e qualquer outra coisa que me faça pensar <i>"seria legal fazer isso"</i>. Gosto de colocar minha criatividade nas coisas que faço e acho muito divertido poder transformar uma ideia em algo que realmente funciona.
+<br><br>
+Quando não estou estudando, provavelmente estou ouvindo música, jogando, assistindo uma comédia romântica ou escrevendo um monte de coisas aleatórias. Se você chegou até aqui, seja muito bem-vindo(a)! ♡
+</p>
+```
+
