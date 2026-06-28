@@ -23,6 +23,8 @@
 </p>
 
 <!-- 💗 Sobre mim -->
+<p align="center"><b>Sobre mim</b></p>
+
 <p align="center">
 Oie! Eu sou a Carol, tenho 16 anos e faço Análise e Desenvolvimento de Sistemas pelo Senac. Ainda estou descobrindo esse mundo da programação, mas já percebi que adoro criar coisas e dar vida às ideias que passam pela minha cabeça.
 
